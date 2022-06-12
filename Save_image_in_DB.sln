@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Save_image_in_DB", "Save_image_in_DB\Save_image_in_DB.csproj", "{F4A242F2-4762-4BD2-89C5-FC35AAF13DDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4A242F2-4762-4BD2-89C5-FC35AAF13DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4A242F2-4762-4BD2-89C5-FC35AAF13DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4A242F2-4762-4BD2-89C5-FC35AAF13DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4A242F2-4762-4BD2-89C5-FC35AAF13DDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4BF483E-3A61-418B-8F74-5143CD6D6351}
+	EndGlobalSection
+EndGlobal
